@@ -40,4 +40,4 @@
 
 需要回退时，先彻底退出 IDM。将程序目录里形如 `IDMan.exe.before-popup-fix-日期时间.bak` 的原始备份复制为 `IDMan.exe`，覆盖修改后的主程序，再启动 IDM。
 
-这个仓库收录修复记录和弹窗截图。
+下载本次修改后的主程序 [IDMan.exe](./IDMan.exe?raw=true)。适用构建及 SHA-256 见上表。
